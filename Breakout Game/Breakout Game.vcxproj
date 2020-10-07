@@ -142,11 +142,11 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\BreakoutGame\BreakoutGame\Collider.cpp" />
-    <ClCompile Include="..\..\BreakoutGame\BreakoutGame\main.cpp" />
+    <ClCompile Include="Collider.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\BreakoutGame\BreakoutGame\Collider.h" />
+    <ClInclude Include="Collider.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

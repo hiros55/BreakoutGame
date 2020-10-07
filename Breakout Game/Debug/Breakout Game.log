@@ -1,21 +1,21 @@
 ﻿  Collider.cpp
   main.cpp
-C:\Users\hiro\Desktop\BreakoutGame\BreakoutGame\main.cpp(19,39): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
-C:\Users\hiro\Desktop\BreakoutGame\BreakoutGame\main.cpp(40,22): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\hiro\Desktop\BreakoutGame\BreakoutGame\main.cpp(116,19): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
-C:\Users\hiro\Desktop\BreakoutGame\BreakoutGame\main.cpp(116,16): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
-C:\Users\hiro\Desktop\BreakoutGame\BreakoutGame\main.cpp(117,31): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
-C:\Users\hiro\Desktop\BreakoutGame\BreakoutGame\main.cpp(117,18): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
-C:\Users\hiro\Desktop\BreakoutGame\BreakoutGame\main.cpp(118,33): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
-C:\Users\hiro\Desktop\BreakoutGame\BreakoutGame\main.cpp(118,18): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
-C:\Users\hiro\Desktop\BreakoutGame\BreakoutGame\main.cpp(119,21): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
-C:\Users\hiro\Desktop\BreakoutGame\BreakoutGame\main.cpp(119,16): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
-C:\Users\hiro\Desktop\BreakoutGame\BreakoutGame\main.cpp(134,30): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\hiro\Desktop\BreakoutGame\BreakoutGame\main.cpp(134,16): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-C:\Users\hiro\Desktop\BreakoutGame\BreakoutGame\main.cpp(143,38): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\hiro\Desktop\BreakoutGame\BreakoutGame\main.cpp(145,44): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\hiro\Desktop\BreakoutGame\BreakoutGame\main.cpp(207,25): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
-C:\Users\hiro\Desktop\BreakoutGame\BreakoutGame\main.cpp(258,2): warning C4065: switch 文に 'default' はありますが 'case' ラベルがありません。
+C:\Users\hiro\Desktop\Breakout Game\Breakout Game\main.cpp(19,39): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\Users\hiro\Desktop\Breakout Game\Breakout Game\main.cpp(40,22): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\Breakout Game\Breakout Game\main.cpp(116,19): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\Breakout Game\Breakout Game\main.cpp(116,16): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\Breakout Game\Breakout Game\main.cpp(117,31): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\Breakout Game\Breakout Game\main.cpp(117,18): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\Breakout Game\Breakout Game\main.cpp(118,33): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\Breakout Game\Breakout Game\main.cpp(118,18): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\Breakout Game\Breakout Game\main.cpp(119,21): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\Breakout Game\Breakout Game\main.cpp(119,16): warning C4244: '引数': 'int' から 'GLfloat' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\Breakout Game\Breakout Game\main.cpp(134,30): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\Breakout Game\Breakout Game\main.cpp(134,16): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\Breakout Game\Breakout Game\main.cpp(143,39): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\Breakout Game\Breakout Game\main.cpp(145,44): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\Breakout Game\Breakout Game\main.cpp(207,25): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+C:\Users\hiro\Desktop\Breakout Game\Breakout Game\main.cpp(258,2): warning C4065: switch 文に 'default' はありますが 'case' ラベルがありません。
   コードを生成中...
-C:\Users\hiro\Desktop\BreakoutGame\BreakoutGame\Collider.cpp(23): warning C4715: 'Collider::BarCollision': 値を返さないコントロール パスがあります。
+C:\Users\hiro\Desktop\Breakout Game\Breakout Game\Collider.cpp(23): warning C4715: 'Collider::BarCollision': 値を返さないコントロール パスがあります。
   Breakout Game.vcxproj -> C:\Users\hiro\Desktop\Breakout Game\Debug\Breakout Game.exe
